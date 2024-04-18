@@ -1,0 +1,7 @@
+1|Antônio:123|Maitê Kubo:20
+2|Diego:456|Diego Santos:10
+3|Maitê:789|Diego Santos:10
+4|Luana:147|Diego Santos:10
+5|Douglas:258|Maitê Kubo:20
+6|Alex:369|Cristian Franklin:30
+7|Maria:159|Maitê Kubo:20

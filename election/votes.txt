@@ -1,0 +1,4 @@
+1|Antônio:123|Maitê Kubo:20
+2|Diego:456|Diego Santos:10
+3|Maitê:789|Diego Santos:10
+4|Luana:147|Diego Santos:10
