@@ -1,4 +1,0 @@
-Antônio|123
-Diego|456
-Maitê|789
-Luana|147
